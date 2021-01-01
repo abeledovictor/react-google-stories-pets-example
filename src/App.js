@@ -136,7 +136,7 @@ function App() {
       </AmpStoryPage>
 
       {/* Bookend */}
-      <AmpStoryBookend src="bookend.json" layout="nodisplay" />
+      <AmpStoryBookend src="bookend.json" />
 
       </AmpStory>
   );
