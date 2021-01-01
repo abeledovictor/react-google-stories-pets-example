@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-google-stories-pets-example/static/css/main.6b522f62.chunk.css",
+    "main.js": "/react-google-stories-pets-example/static/js/main.ab76be3e.chunk.js",
+    "main.js.map": "/react-google-stories-pets-example/static/js/main.ab76be3e.chunk.js.map",
+    "runtime-main.js": "/react-google-stories-pets-example/static/js/runtime-main.cf2fe219.js",
+    "runtime-main.js.map": "/react-google-stories-pets-example/static/js/runtime-main.cf2fe219.js.map",
+    "static/js/2.62528e0b.chunk.js": "/react-google-stories-pets-example/static/js/2.62528e0b.chunk.js",
+    "static/js/2.62528e0b.chunk.js.map": "/react-google-stories-pets-example/static/js/2.62528e0b.chunk.js.map",
+    "static/js/3.4bd852da.chunk.js": "/react-google-stories-pets-example/static/js/3.4bd852da.chunk.js",
+    "static/js/3.4bd852da.chunk.js.map": "/react-google-stories-pets-example/static/js/3.4bd852da.chunk.js.map",
+    "index.html": "/react-google-stories-pets-example/index.html",
+    "static/css/main.6b522f62.chunk.css.map": "/react-google-stories-pets-example/static/css/main.6b522f62.chunk.css.map",
+    "static/js/2.62528e0b.chunk.js.LICENSE.txt": "/react-google-stories-pets-example/static/js/2.62528e0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2fe219.js",
+    "static/js/2.62528e0b.chunk.js",
+    "static/css/main.6b522f62.chunk.css",
+    "static/js/main.ab76be3e.chunk.js"
+  ]
+}
