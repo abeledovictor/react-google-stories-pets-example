@@ -17,11 +17,12 @@ import './App.css'
 function App() {
   return (
     /* Cover page */
-    <AmpStory standalone
-        title="Joy of Pets"
-        publisher="react-google-stories tutorial"
-        publisher-logo-src="assets/AMP-Brand-White-Icon.svg"
-        poster-portrait-src="assets/cover.jpg">
+    <AmpStory
+      title="Joy of Pets"
+      publisher="react-google-stories tutorial"
+      publisher-logo-src="assets/AMP-Brand-White-Icon.svg"
+      poster-portrait-src="assets/cover.jpg"
+    >
       <AmpStoryPage id="cover">
         <AmpStoryGridLayer template="fill">
           <AmpImg src="assets/cover.jpg"
